@@ -1,0 +1,27 @@
+body {
+	width: 70%;
+	margin: auto;
+}
+
+section.galerie {
+	width: 90%;
+	margin: auto;
+	margin-top: 50px;
+}
+
+div.bs-component {
+	text-align: center;
+	/*border-top: 3px solid orange;*/w
+}
+
+div.bs-component:hover {
+	border-bottom: 3px solid orange;
+}
+
+h5 {
+	margin-top: 25px;
+}
+
+a:hover {
+	text-decoration: none;
+}
